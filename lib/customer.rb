@@ -6,4 +6,4 @@ class Customer
     @age = age
     @@all << self
   end
-end
+end #end of class
