@@ -9,4 +9,5 @@ class Meal
     @tip = tip
     @@all << self
   end
-end
+
+end #end of class
