@@ -1,7 +1,7 @@
 class Customer
   attr_accessor :name, :age
   def initialize(name,age)
-    @name = namw
+    @name = name
     @age = age
 
 end
