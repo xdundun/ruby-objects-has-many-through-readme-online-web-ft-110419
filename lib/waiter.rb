@@ -1,3 +1,4 @@
 class Waiter
 
-end
+
+end #end of class
